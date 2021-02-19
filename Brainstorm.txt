@@ -40,4 +40,19 @@ Sweatcoins base steps off their calcuations to avoid just shaking the phone and 
 Will follow suit and have calcuations on steps 
 
 
-As i plan to flesh out ideas etc. For now the goal is to walk a certain amount of steps and hatch your egg ---- MAIN GOAL
+As i plan to flesh out ideas etc. For now the goal is to walk a certain amount of steps and hatch your egg <---- MAIN GOAL
+
+TIMELINE BASED OFF THE SCRUM METHOD SO BREAKING IT UP INTO PIECES
+
+- Familarity with FLUTTER
+- same with FIREBASE
+- APP ROADMAP
+- UI DESIGNS
+- APP CREATION
+
+PIECE 1 - EGG that hatch because of steps and login
+PIECE 2 - difficulty and 4 more different egg monster, based off diffuculty 
+PIECE 3 - Health and RPG elements
+
+MORE TO COME
+
