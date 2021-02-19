@@ -51,7 +51,7 @@ TIMELINE BASED OFF THE SCRUM METHOD SO BREAKING IT UP INTO PIECES
 - APP CREATION
 
 PIECE 1 - EGG that hatch because of steps and login
-PIECE 2 - difficulty and 4 more different egg monster, based off diffuculty 
+PIECE 2 - difficulty and 4 more different egg monster, based off diffuculty, increase user profile
 PIECE 3 - Health and RPG elements
 
 MORE TO COME
